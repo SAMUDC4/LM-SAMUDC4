@@ -12,7 +12,7 @@ Un lenguaje de marcas organiza info. mediante una sintaxis basada en marcas o ta
 | Presentación | Dar formatoa docs | HTML, CSS |
 | Intercambio de Información | Almacenar info de forma ordenada | XML, RSS |
 | Documentación | Documentar proyectos | Markdown, WikiTex |
-|
+
 
 ## Instalación y config del entorno
 
